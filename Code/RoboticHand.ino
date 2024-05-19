@@ -2,7 +2,7 @@
 /*--------------------------------------------------------------------------
 -*- coding: utf-8 -*-                   created on sunday, november 26, 2023
 
-@author: Phuoc Loi Tran (Twilight)
+@author: Phuoc Loi Tran
 @student code: 2101076 (from C.T.U.T)
 @github: Loitranph ( https://github.com/Loitranph )
 @discription: Gesture recognition and control project, using python and arduino
