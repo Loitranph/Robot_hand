@@ -37,7 +37,6 @@ It demonstrates integration between **mechanical design, electronics, and progra
    ```
 
 ## 🚀 Future Improvements
-- Implement **computer vision** for gesture recognition.
 - Add **wireless control** using Bluetooth or Wi-Fi.
 - Improve **grip precision** with feedback sensors.
 
