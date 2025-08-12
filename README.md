@@ -40,3 +40,11 @@ It demonstrates integration between **mechanical design, electronics, and progra
 - Implement **computer vision** for gesture recognition.
 - Add **wireless control** using Bluetooth or Wi-Fi.
 - Improve **grip precision** with feedback sensors.
+
+---
+
+## 🧑‍💻 Author
+
+- **Phuoc Loi Tran** – [GitHub](https://github.com/Loitranph)
+
+---
