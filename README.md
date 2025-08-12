@@ -23,7 +23,7 @@ It demonstrates integration between **mechanical design, electronics, and progra
 - Arduino IDE
 - Required Python libraries:
   ```bash
-  pip install pyserial
+  pip install pyserial opencv-python mediapipe
   ```
 - Servo control library for Arduino
 
